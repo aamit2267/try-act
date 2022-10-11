@@ -1,7 +1,8 @@
 import selenium
 import selenium.webdriver
+import chromedriver_autoinstaller
 import json
-
+chromedriver_autoinstaller.install()
 driver = selenium.webdriver.Chrome("~/usr/bin/chromedriver")
 driver.get('https://messmenu.epizy.com/')
 d={}
