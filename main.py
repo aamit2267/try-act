@@ -5,7 +5,7 @@ import json
 
 app = Flask(__name__)
 
-@app.route('/api', methods=['GET'])
+@app.route('/', methods=['GET'])
 def api():
     driver = selenium.webdriver.Chrome("C:\\Users\\amita\\Downloads\\chromedriver_win32\\chromedriver.exe")
     driver.get('https://messmenu.epizy.com/')
