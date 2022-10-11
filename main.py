@@ -1,22 +1,8 @@
 import selenium
-from selenium import webdriver
+import selenium.webdriver
 import json
-import chromedriver_autoinstaller
-from selenium.webdriver.chrome.options import Options
 
-chromedriver_autoinstaller.install()
-
-#Chrome options
-chrome_options = Options()
-chrome_options.add_argument("--disable-extensions")
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument("--disable-infobars")
-chrome_options.add_argument('--disable-dev-shm-usage')
-
-#Run chrome
-driver =  webdriver.Chrome('/home/<user>/chromedriver',chrome_options=chrome_options)
-
-# do the code for your test
+driver = selenium.webdriver.Chrome("~/usr/bin/chromedriver")
 driver.get('https://messmenu.epizy.com/')
 d={}
 d['date'] = driver.find_elements(by=selenium.webdriver.common.by.By.TAG_NAME, value='h3')[0].text

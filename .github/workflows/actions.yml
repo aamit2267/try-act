@@ -22,8 +22,11 @@ jobs:
       
       - name: Install Google Chrome # Using shell script to install Google Chrome
         run: |
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb
+          wget https://chromedriver.storage.googleapis.com/94.0.4606.61/chromedriver_linux64.zip
+          unzip chromedriver_linux64.zip 
+          sudo mv chromedriver /usr/bin/chromedriver
+          sudo chown root:root /usr/bin/chromedriver
+          sudo chmod +x /usr/bin/chromedriver
 
       - name: execute py script
         run: python main.py
