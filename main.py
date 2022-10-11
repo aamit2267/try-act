@@ -2,11 +2,13 @@ import selenium
 from selenium import webdriver
 import json
 import chromedriver_autoinstaller
+from selenium.webdriver.chrome.options import Options
 
 chromedriver_autoinstaller.install()
 
 #Chrome options
-chrome_options = webdriver.ChromeOptions()
+chrome_options = Options()
+chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument("--disable-infobars")
 chrome_options.add_argument('--disable-dev-shm-usage')
