@@ -3,7 +3,7 @@ import selenium.webdriver
 import chromedriver_autoinstaller
 import json
 chromedriver_autoinstaller.install()
-driver = selenium.webdriver.Chrome("~/usr/bin/chromedriver")
+driver = selenium.webdriver.Chrome()
 driver.get('https://messmenu.epizy.com/')
 d={}
 d['date'] = driver.find_elements(by=selenium.webdriver.common.by.By.TAG_NAME, value='h3')[0].text
