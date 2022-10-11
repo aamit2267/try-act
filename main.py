@@ -14,7 +14,7 @@ chrome_options.add_argument("--disable-infobars")
 chrome_options.add_argument('--disable-dev-shm-usage')
 
 #Run chrome
-driver = webdriver.Chrome(options=chrome_options)
+driver =  webdriver.Chrome('/home/<user>/chromedriver',chrome_options=chrome_options)
 
 # do the code for your test
 driver.get('https://messmenu.epizy.com/')
