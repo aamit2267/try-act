@@ -1,9 +1,26 @@
 import selenium
-import selenium.webdriver
-import chromedriver_autoinstaller
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from pyvirtualdisplay import Display
 import json
+display = Display(visible=0, size=(800, 800))  
+display.start()
+
 chromedriver_autoinstaller.install()
-driver = selenium.webdriver.Chrome()
+
+chrome_options = webdriver.ChromeOptions()    
+options = [
+   "--window-size=1200,1200",
+    "--ignore-certificate-errors"
+]
+
+for option in options:
+    chrome_options.add_argument(option)
+
+    
+driver = webdriver.Chrome(options = chrome_options)
+
 driver.get('https://messmenu.epizy.com/')
 d={}
 d['date'] = driver.find_elements(by=selenium.webdriver.common.by.By.TAG_NAME, value='h3')[0].text
