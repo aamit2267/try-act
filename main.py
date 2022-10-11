@@ -25,8 +25,7 @@ def api():
     with open('data.json', 'w') as outfile:
         json.dump(d, outfile, indent=4)
     return jsonify(d)
-    # stop python program
-    sys.exit()
+    exit(0)
 
 if __name__ == '__main__':
     app.run()
