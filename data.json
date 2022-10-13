@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "13th Oct, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "14th Oct, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg mulligatawny soup",
-                "Paneer makhanwala",
-                "Steam rice",
-                "Plain dal",
-                "Chapati",
-                "Tandoori roti",
-                "Salad/pickle",
-                "Moongdal sheera"
+                "Idli samber",
+                "Chutney",
+                "Uttapam",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
