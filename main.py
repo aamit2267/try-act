@@ -39,5 +39,14 @@ if len(d['li'])==0:
         if i % 2 == 0:
             d['td'][td[i].text] = td[i+1].text.encode("ascii", "ignore").decode().replace(" ", "")
 driver.close()
+# with open('data.json', 'w') as outfile:
+#     json.dump(d, outfile, indent=4)
+
+"""
+make a dictionary with key meal and value as d
+"""
+json1 = {}
+json1['meal'] = []
+json1['meal'].append(d)
 with open('data.json', 'w') as outfile:
-    json.dump(d, outfile, indent=4)
+    json.dump(json1, outfile, indent=4)

@@ -1,15 +1,19 @@
 {
-    "date": "13th Oct, 2022",
-    "time": "8:00 PM to 10:00 PM",
-    "occ": " Dinner",
-    "li": [
-        "Veg mulligatawny soup",
-        "Paneer makhanwala",
-        "Steam rice",
-        "Plain dal",
-        "Chapati",
-        "Tandoori roti",
-        "Salad/pickle",
-        "Moongdal sheera"
+    "meal": [
+        {
+            "date": "13th Oct, 2022",
+            "time": "8:00 PM to 10:00 PM",
+            "occ": " Dinner",
+            "li": [
+                "Veg mulligatawny soup",
+                "Paneer makhanwala",
+                "Steam rice",
+                "Plain dal",
+                "Chapati",
+                "Tandoori roti",
+                "Salad/pickle",
+                "Moongdal sheera"
+            ]
+        }
     ]
 }
