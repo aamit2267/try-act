@@ -2,15 +2,16 @@
     "meal": [
         {
             "date": "14th Oct, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Idli samber",
-                "Chutney",
-                "Uttapam",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Chole amritsari",
+                "Dudhi tomato",
+                "Dal fry",
+                "Steam rice",
+                "Poori",
+                "Papad/salad/pickle",
+                "Lassi"
             ]
         }
     ]
