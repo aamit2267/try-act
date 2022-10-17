@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "17th Oct, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "18th Oct, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Pumkin soup",
-                "Punjabi chole",
-                "Dal tadka",
-                "Gajar ghee rice",
-                "Chapati",
-                "Tandoori roti",
-                "Papad/salad/pickle",
-                "Sevai kheer"
+                "Medu vada",
+                "Samber chutney",
+                "Sev poha",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
