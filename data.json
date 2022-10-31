@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "31st Oct, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "1st Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Red pumkin soup",
-                "Punjabi chawli masala",
-                "Dal fry",
-                "Veg fried rice",
-                "Chapati",
-                "Tandoori roti",
-                "Papad/salad/pickle",
-                "Sev boondi"
+                "Medu vada",
+                "Samber chutney",
+                "Poha",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
