@@ -1,15 +1,15 @@
 {
     "meal": [
         {
-            "date": "19th Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "20th Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Pav bhaji",
-                "Veg Biryani",
-                "Lemon",
-                "Onion chop",
-                "Kheer"
+                "Samosa",
+                "Dhokla chutney",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
