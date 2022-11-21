@@ -1,19 +1,16 @@
 {
     "meal": [
         {
-            "date": "21st Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "22nd Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Lemon corriander soup",
-                "Veg malai kofta white gravy",
-                "Dal makhani",
-                "Jeera rice",
-                "Tomato chutney",
-                "Chapati",
-                "Tandoori roti",
-                "Papad/salad/pickle",
-                "Dry fruit sheera"
+                "Moongdal kachori",
+                "Chutney",
+                "Sabudana khichdi",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
