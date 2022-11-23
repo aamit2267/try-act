@@ -2,15 +2,18 @@
     "meal": [
         {
             "date": "23rd Nov, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Medu vada",
-                "Samber chutney",
-                "Poha",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Mix pulses",
+                "Baingan bharta",
+                "Dal kolhapuri",
+                "Steam rice",
+                "Chapati",
+                "Tandoori roti",
+                "Mirchi techa",
+                "Papad/salad/pickle",
+                "Curd"
             ]
         }
     ]
