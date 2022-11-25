@@ -2,15 +2,16 @@
     "meal": [
         {
             "date": "25th Nov, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Idli samber",
-                "Chutney",
-                "Uttapam",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Chole amritsari",
+                "Tomato bharta",
+                "Dal fry",
+                "Steam rice",
+                "Bhature",
+                "Salad pickle",
+                "Curd"
             ]
         }
     ]
