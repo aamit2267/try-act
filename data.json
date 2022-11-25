@@ -1,19 +1,16 @@
 {
     "meal": [
         {
-            "date": "25th Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "26th Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg manchow soup",
-                "Dudhi tomato subji",
-                "Red sauce mix pasta in arabita Sauce",
-                "Dal fry",
-                "Continental fried rice",
-                "Chapati",
-                "Tandoori roti",
-                "Salad pickle",
-                "Gud jalebi"
+                "Aloo Paratha",
+                "Sevai upma",
+                "Curd",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
