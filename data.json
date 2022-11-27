@@ -1,18 +1,15 @@
 {
     "meal": [
         {
-            "date": "27th Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "28th Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg clear soup",
-                "Dal baati",
-                "Aloo dry",
-                "Masala rice",
-                "Red chutney",
-                "Chapati",
-                "Papad salad pickle",
-                "Churma"
+                "Poori bhaji",
+                "Bread butter jam",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
