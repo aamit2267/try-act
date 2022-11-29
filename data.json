@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "29th Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "30th Nov, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg lentil soup",
-                "Paneer butter masala",
-                "Dal plain",
-                "Steam rice",
-                "Chapati",
-                "Tandoori roti",
-                "Papad/salad/pickle",
-                "Ladoo"
+                "Aloo paratha",
+                "Curd",
+                "Upma",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
