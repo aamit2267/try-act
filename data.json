@@ -2,15 +2,18 @@
     "meal": [
         {
             "date": "29th Nov, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Medu vada samber",
-                "Chutney",
-                "Poha",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Matki usal",
+                "Gobi tomato",
+                "Dal fry",
+                "Jeera",
+                "Rice",
+                "Chapati",
+                "Tandoori roti",
+                "Papad/salad/pickle",
+                "Curd"
             ]
         }
     ]
