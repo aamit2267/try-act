@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "30th Nov, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "1st Dec, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Tomato soup",
-                "Malai kofta yellow gravy",
-                "Dal fry",
-                "Soyabean pulao",
-                "Chapati",
-                "Tandoori roti",
-                "Papad salad pickle",
-                "Mohanthal"
+                "Moongdal kachori",
+                "Sabudana khichdi",
+                "Chutney",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
