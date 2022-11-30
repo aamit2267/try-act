@@ -2,15 +2,16 @@
     "meal": [
         {
             "date": "30th Nov, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Aloo paratha",
-                "Curd",
-                "Upma",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Chole amritsari",
+                "Baingan masala",
+                "Mix dal",
+                "Steam rice",
+                "Poori",
+                "Papad salad pickle",
+                "Butter milk"
             ]
         }
     ]
