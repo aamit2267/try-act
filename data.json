@@ -2,10 +2,18 @@
     "meal": [
         {
             "date": "19th Dec, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
-            "li": [],
-            "td": {}
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
+            "li": [
+                "Matar paneer",
+                "Tondli chaba",
+                "Dal lahshuni",
+                "Steam rice",
+                "Tandoori roti/chapati",
+                "Pickle",
+                "Curd",
+                "Salad"
+            ]
         }
     ]
 }
