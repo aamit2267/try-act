@@ -2,13 +2,10 @@
     "meal": [
         {
             "date": "20th Dec, 2022",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
-            "li": [
-                "Misal pav",
-                "Vada",
-                "Tea/coffee/milk"
-            ]
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
+            "li": [],
+            "td": {}
         }
     ]
 }
