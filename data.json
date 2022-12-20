@@ -2,10 +2,18 @@
     "meal": [
         {
             "date": "20th Dec, 2022",
-            "time": "12:00 PM to 2:00 PM",
-            "occ": " Lunch",
-            "li": [],
-            "td": {}
+            "time": "8:00 PM to 10:00 PM",
+            "occ": " Dinner",
+            "li": [
+                "Crime of palak soup",
+                "Veg kurma",
+                "Dal fry",
+                "Tomato rice",
+                "Tandoori roti/chapati",
+                "Papad",
+                "Pickle",
+                "Coconut barfi"
+            ]
         }
     ]
 }
