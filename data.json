@@ -1,19 +1,16 @@
 {
     "meal": [
         {
-            "date": "21st Dec, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "22nd Dec, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Tomato soup",
-                "Rajma masala",
-                "Aloo bhendi",
-                "Dal fry",
-                "Steam rice",
-                "Chapati",
-                "Tandoori roti",
-                "Papad salad pickle",
-                "Sev boondi"
+                "Bread pakoda",
+                "Chutney",
+                "Poha",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
