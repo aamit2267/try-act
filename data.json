@@ -1,19 +1,16 @@
 {
     "meal": [
         {
-            "date": "23rd Dec, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "24th Dec, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg manchow soup",
-                "Gatte ki subji",
-                "Moong dal palak",
-                "Dal fry",
-                "Steam rice",
-                "Chapati",
-                "Tandoori roti",
-                "Papad salad pickle",
-                "Jalebi"
+                "Aloo Paratha",
+                "Sevai upma",
+                "Curd",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
