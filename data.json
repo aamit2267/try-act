@@ -1,17 +1,16 @@
 {
     "meal": [
         {
-            "date": "29th Dec, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "30th Dec, 2022",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg hot and sour soup",
-                "Veg Manchurian gravy",
-                "Veg fried rice",
-                "Chana dal subji",
-                "Chapati",
-                "Papad salad pickle",
-                "Ladoo"
+                "Dhokla",
+                "Chutney",
+                "Sev poha",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
