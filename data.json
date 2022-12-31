@@ -1,18 +1,16 @@
 {
     "meal": [
         {
-            "date": "31st Dec, 2022",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "1st Jan, 2023",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Tomato soup",
-                "White sauce pasta with veggies",
-                "Mix Pasta in nepolitan sauce",
-                "Corn fried rice",
-                "Garlic bread",
-                "Dal fry",
-                "Salad",
-                "Dry cake Slice"
+                "Samosa",
+                "Dhokla",
+                "Chutney",
+                "Tea",
+                "Coffee",
+                "Milk"
             ]
         }
     ]
