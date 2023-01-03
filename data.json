@@ -2,15 +2,18 @@
     "meal": [
         {
             "date": "3rd Jan, 2023",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Moong dal kachori",
-                "Sabudana khichidi",
-                "Chutney",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Paneer corn capsicum makhani",
+                "Gobi mutter",
+                "Dal kolhapuri",
+                "Steam rice",
+                "Chapati",
+                "Tandoori roti",
+                "Papad salad pickle",
+                "Butter milk",
+                "Curd"
             ]
         }
     ]
