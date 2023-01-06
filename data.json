@@ -2,14 +2,16 @@
     "meal": [
         {
             "date": "6th Jan, 2023",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Idli samber chuney",
-                "Uttapam",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Chole amritsari",
+                "Tomato bharta",
+                "Dal tadka",
+                "Steam rice",
+                "Poori",
+                "Papad salad pickle",
+                "Curd"
             ]
         }
     ]
