@@ -1,17 +1,16 @@
 {
     "meal": [
         {
-            "date": "7th Jan, 2023",
-            "time": "8:00 PM to 10:00 PM",
-            "occ": " Dinner",
+            "date": "8th Jan, 2023",
+            "time": "7:00 AM to 9:30 AM",
+            "occ": " Breakfast",
             "li": [
-                "Veg hot & sour soup",
-                "Veg manchurian gravy",
-                "Veg fried rice",
-                "Chana dal ki subji",
-                "Chapati",
-                "Salad/pickle",
-                "Sevai kheer"
+                "DHOKLA",
+                "POHA",
+                "CHUTNEY",
+                "TEA",
+                "COFFEE",
+                "MILK"
             ]
         }
     ]
