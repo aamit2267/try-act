@@ -2,15 +2,17 @@
     "meal": [
         {
             "date": "7th Jan, 2023",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Aloo Paratha",
-                "Sevai upma",
-                "Curd",
-                "Tea",
-                "Coffee",
-                "Milk"
+                "Paneer handi",
+                "Red pumkin mutter",
+                "Lasooni dal",
+                "Steam rice",
+                "Chapati",
+                "Tandoori roti",
+                "Papad/salad/pickle",
+                "Butter milk"
             ]
         }
     ]
