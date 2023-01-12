@@ -2,15 +2,16 @@
     "meal": [
         {
             "date": "12th Jan, 2023",
-            "time": "7:00 AM to 9:30 AM",
-            "occ": " Breakfast",
+            "time": "12:00 PM to 2:00 PM",
+            "occ": " Lunch",
             "li": [
-                "Moong dal kachori",
-                "Sabudana khichidi",
-                "Chutney",
-                "Tea",
-                "Milk",
-                "Coffee"
+                "Chole amritsari",
+                "Baingan masala",
+                "Dal fry",
+                "Steam rice",
+                "Poori",
+                "Papad/salad/pickle",
+                "Lassi"
             ]
         }
     ]
