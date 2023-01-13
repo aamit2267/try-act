@@ -32,7 +32,8 @@ jobs:
         run: sudo apt purge chromium-browser
 
       - name: Install a new Chromium
-        run: sudo apt install -y chromium-browser=109.0.5414.95
+        run: apt-cache madison chromium-browser
+#         run: sudo apt install -y chromium-browser=109.0.5414.95
       
       - name: install python packages
         run: |
