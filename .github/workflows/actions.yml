@@ -32,7 +32,7 @@ jobs:
         run: sudo apt purge chromium-browser
 
       - name: Install a new Chromium
-        run: sudo apt update && sudo apt install snapd && sudo snap install -y chromium
+        run: sudo apt update && sudo apt install snapd && sudo snap install chromium
 #         run: sudo apt install -y chromium-browser=109.0.5414.95
       
       - name: install python packages
