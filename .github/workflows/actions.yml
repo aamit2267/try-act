@@ -1,11 +1,11 @@
 name: run main.py
 
-on: [workflow_dispatch]
-#   schedule:
-#     - cron: '30 22 * * *'
-#     - cron: '30 5 * * *'
-#     - cron: '0 10 * * *'
-#     - cron: '40 14 * * *'
+on:
+  schedule:
+    - cron: '30 22 * * *'
+    - cron: '30 5 * * *'
+    - cron: '0 10 * * *'
+    - cron: '40 14 * * *'
 
 jobs:
   build:
@@ -32,8 +32,7 @@ jobs:
         run: sudo apt purge chromium-browser
 
       - name: Install a new Chromium
-        run: sudo apt update && sudo apt install snapd && sudo snap install chromium
-#         run: sudo apt install -y chromium-browser=109.0.5414.95
+        run: sudo apt install -y chromium-browser
       
       - name: install python packages
         run: |
